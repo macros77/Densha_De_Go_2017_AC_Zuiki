@@ -10,3 +10,13 @@ Python 3.13 is the highest recommended version.
 Tested with pygame 2.6.1 (SDL 2.28.4, Python 3.13.11) and pydirectinput-rgx 2.1.3
 (standard pydirectinput does not support mouse scroll functionality)
 https://pypi.org/project/pydirectinput-rgx/
+
+Tested with the following Zuiki controllers:
+- Densha de GO! edition (ZKNS-001)
+- ZUIKI Mascon Black (ZKNS-013)
+
+Should work correctly with the other editions:
+- Densha de GO! 1st anniversary translucent edition (ZKNS-002)
+- ZUIKI Mascon Red (ZKNS-011)
+- ZUIKI Mascon Blue (ZKNS-012)
+- 
