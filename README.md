@@ -21,7 +21,7 @@ Tested with the following Zuiki controllers:
 - Densha de GO! edition (ZKNS-001)
 - ZUIKI Mascon Black (ZKNS-013)
 
-Should work correctly with the other editions:
+Should work correctly with other editions:
 - Densha de GO! 1st anniversary translucent edition (ZKNS-002)
 - ZUIKI Mascon Red (ZKNS-011)
 - ZUIKI Mascon Blue (ZKNS-012)
