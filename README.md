@@ -1,7 +1,7 @@
 # Densha_De_Go_2017_AC_Zuiki
 
 This script maps movements of ZUKI Master Controller to up and down mouse wheel movement events
-allowing accelaration and breaking control in Densha de Go!! AC 2017 (tested with version 5.80.02)
+allowing accelaration and breaking control in Densha de Go!! 2017 Arcade Version (TG4AC, tested with version 5.80.02)
 running natively on Windows, without Teknoparrot emulation and key mappings.
 
 Train horn is mapped to Zuiki controller A button (same as Nintendo Switch version of Densha).
